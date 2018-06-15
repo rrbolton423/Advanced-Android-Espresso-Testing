@@ -1,0 +1,40 @@
+<resources>
+  <string name="app_name">Cat Names</string>
+  <string name="name_hint">Pick a name for your cat</string>
+  <string name="theme_popular">Popular</string>
+  <string name="theme_famous">Famous</string>
+  <string name="theme_punny">Punny</string>
+  <string name="title_ideas">Ideas</string>
+
+  <string name="missing_theme">Missing theme</string>
+  <string name="unknown_theme">Sorry, no ideas for %1$s</string>
+
+  <string-array name="ideas_popular">
+    <item>Boots</item>
+    <item>Kitty</item>
+    <item>Misty</item>
+    <item>Patch</item>
+    <item>Smokey</item>
+    <item>Tiger</item>
+  </string-array>
+
+  <string-array name="ideas_famous">
+    <item>Felix</item>
+    <item>Garfield</item>
+    <item>Simba</item>
+    <item>Sylvester</item>
+    <item>Tigger</item>
+    <item>Tom</item>
+  </string-array>
+
+  <string-array name="ideas_punny">
+    <item>Catalie Portman</item>
+    <item>Cat Damon</item>
+    <item>Elvis Catsley</item>
+    <item>Jude Paw</item>
+    <item>Katy Purry</item>
+    <item>Puma Thurman</item>
+  </string-array>
+
+
+</resources>
